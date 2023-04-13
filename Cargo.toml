@@ -1,0 +1,9 @@
+[package]
+name = "libvsync"
+version = "0.1.0"
+edition = "2021"
+description = "Library for verified synchronization primitives in Rust"
+license-file = "LICENSE"
+repository = "https://github.com/jschwe/libvsync"
+
+[dependencies]
